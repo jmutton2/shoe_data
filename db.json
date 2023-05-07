@@ -1,18 +1,11 @@
 {
-  "data": [
+  "posts": [
     {
       "id": 1,
-      "title": "Area Lo Sneaker",
-      "price": 285,
-      "material": "Full Grain Leather",
-      "description": "",
-      "category": "men's shoes",
-      "image": [
-        "https://raw.githubusercontent.com/jmutton2/shoe_data/main/1.png",
-        "https://img.ssensemedia.com/images/b_white,c_lpad,g_center,h_1412,w_940/c_scale,h_960/f_auto,dpr_1.0/222307M237032_2/axel-arigato-white-area-lo-sneakers.jpg",
-        "https://img.ssensemedia.com/images/b_white,c_lpad,g_center,h_1412,w_940/c_scale,h_960/f_auto,dpr_1.0/222307M237032_3/axel-arigato-white-area-lo-sneakers.jpg",
-        "https://img.ssensemedia.com/images/b_white,c_lpad,g_center,h_1412,w_940/c_scale,h_960/f_auto,dpr_1.0/222307M237032_4/axel-arigato-white-area-lo-sneakers.jpg"
-      ]
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "?"
+  }
 }
