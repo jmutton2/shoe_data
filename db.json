@@ -1,11 +1,52 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Area Lo Sneaker",
+      "price": 285,
+      "material": "Full Grain Leather",
+      "description": "",
+      "category": "men's shoes",
+      "image": [
+        "https://raw.githubusercontent.com/jmutton2/shoe_data/main/1.png",
+        "https://raw.githubusercontent.com/jmutton2/shoe_data/main/2.png",
+        "https://raw.githubusercontent.com/jmutton2/shoe_data/main/3.png",
+        "https://raw.githubusercontent.com/jmutton2/shoe_data/main/4.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Marathon Dip-Dye Runner",
+      "price": 319,
+      "material": "Leather + Polyester + Nylon",
+      "description": "Marathon Dip-dye is made from a white base dyed as a finished shoe using an immersion technique. This is an artisan method making every pair unique, with the components of the marathon absorbing dye in different ways giving multiple shades of the same colour. Some colour migration may occur.",
+      "category": "men's shoes",
+      "image": [
+        "https://img.bstn.com/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC8zMzExNS8zMzExNS0wMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsIndpZHRoIjo1ODAsImhlaWdodCI6NzI1LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+        "https://img.bstn.com/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC8zMzExNS8zMzExNS0wMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsIndpZHRoIjo1ODAsImhlaWdodCI6NzI1LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+        "https://img.bstn.com/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC8zMzExNS8zMzExNS0wMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsIndpZHRoIjo1ODAsImhlaWdodCI6NzI1LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+        "https://img.bstn.com/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC8zMzExNS8zMzExNS0wNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsIndpZHRoIjo1ODAsImhlaWdodCI6NzI1LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+        "https://img.bstn.com/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC8zMzExNS8zMzExNS0wNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsIndpZHRoIjo1ODAsImhlaWdodCI6NzI1LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+        "https://img.bstn.com/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC8zMzExNS8zMzExNS0wNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsIndpZHRoIjo1ODAsImhlaWdodCI6NzI1LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ=="
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "Rush Sneaker",
+      "price": 305,
+      "material": "Leather + Polyester",
+      "description": "",
+      "category": "men's shoes",
+      "image": [
+        "https://raw.githubusercontent.com/jmutton2/shoe_data/main/11.webp",
+        "https://raw.githubusercontent.com/jmutton2/shoe_data/main/11.webp",
+        "https://media.occtoo.com/a5fb66f4-a21f-4b8f-97f8-f0c65eaef780/0f855c2d-fc2b-50a3-a484-5eb97c54e44e/F1068008_5.jpg?format=large",
+        "https://media.occtoo.com/a5fb66f4-a21f-4b8f-97f8-f0c65eaef780/e959c009-8963-5220-9269-23914c9cc957/F1068008_6.jpg?format=large",
+        "https://media.occtoo.com/a5fb66f4-a21f-4b8f-97f8-f0c65eaef780/8d9de073-0b61-53ab-be77-0f90d0dbf816/F1068008_7.jpg?format=large",
+        "https://media.occtoo.com/a5fb66f4-a21f-4b8f-97f8-f0c65eaef780/8deba25a-8e10-51d7-9da2-836b600bbfa2/F1068008_8.jpg?format=large",
+        "https://media.occtoo.com/a5fb66f4-a21f-4b8f-97f8-f0c65eaef780/13237669-ee0c-57bc-86f8-a829f2720acb/F1068008_9.jpg?format=large"
+      ]
     }
-  ],
-  "profile": {
-    "name": "?"
-  }
+  ]
 }
